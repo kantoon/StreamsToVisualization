@@ -1,6 +1,6 @@
-# ** Senior Project:  A Visual Display of Trending Topics **
+# Senior Project:  A Visual Display of Trending Topics
 
-The objective of this project is to create a system that receives streams of textual information from various sources and extracts and displays entities found within those sources. My goal is to create a 
+The objective of this project is to create a system that receives streams of textual information from various sources and extracts and displays entities found within those sources. My goal is to create a system that allows trending topics pulled from text to be viewed in a visually concrete and organized fashion.
 
 This project will incorporate many ideas including but not limited to the following:
 - Natural Language Processing
